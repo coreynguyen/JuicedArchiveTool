@@ -1,0 +1,475 @@
+# depslib dependency file v1.0
+1621813036 source:s:\private\coding\cpp\projects\juicedarchivetool\icon.rc
+
+1640635662 source:s:\private\coding\cpp\projects\juicedarchivetool\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<shellapi.h>
+	"fmtDAT_Archive.h"
+	"fmtDDT.h"
+	"fmtD8M.h"
+	"fmtD8F.h"
+	"fmtPPM.h"
+	"filesystem.h"
+	"bytestream.h"
+	"stringext.h"
+	"wstringext.h"
+	"resource.h"
+	"interface.h"
+	"juiced_filelist.h"
+
+1580834717 s:\private\coding\cpp\_libraries\zlibcomplete\include\zlc\zlibcomplete.hpp
+	<string>
+	<zlib.h>
+	<zlc/gzipcomplete.hpp>
+	<zlc/zlibmisc.hpp>
+	<zlc/zlibraw.hpp>
+
+1121653609 s:\private\coding\cpp\_libraries\zlib\include\zlib.h
+	"zconf.h"
+
+1121874026 s:\private\coding\cpp\_libraries\zlib\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1580834717 s:\private\coding\cpp\_libraries\zlibcomplete\include\zlc\gzipcomplete.hpp
+	<zlc/zlibbase.hpp>
+
+1580834717 s:\private\coding\cpp\_libraries\zlibcomplete\include\zlc\zlibbase.hpp
+	<zlib.h>
+
+1580834717 s:\private\coding\cpp\_libraries\zlibcomplete\include\zlc\zlibmisc.hpp
+	<zlc/zlibbase.hpp>
+
+1580834717 s:\private\coding\cpp\_libraries\zlibcomplete\include\zlc\zlibraw.hpp
+	<zlc/zlibbase.hpp>
+
+1627935275 s:\private\coding\cpp\projects\juicedarchivetool\ddsheader.h
+	<iostream>
+	<fstream>
+	<string>
+	<climits>
+
+1596279080 s:\private\coding\cpp\projects\juicedarchivetool\resource.h
+
+1627935286 s:\private\coding\cpp\projects\juicedarchivetool\helpers.h
+	<iostream>
+	<string>
+	<cstring>
+	<windows.h>
+	<shlwapi.h>
+	<cmath>
+	<tchar.h>
+	<vector>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<time.h>
+	<windows.h>
+	<direct.h>
+	<dirent.h>
+	<shlwapi.h>
+	<stdio.h>
+	<shellapi.h>
+
+1483308236 s:\private\coding\cpp\_libraries\devil\include\il\il.h
+	<stdio.h>
+	<limits.h>
+	<wchar.h>
+
+1483308236 s:\private\coding\cpp\_libraries\devil\include\il\ilu.h
+	<IL/il.h>
+
+1483308236 s:\private\coding\cpp\_libraries\devil\include\il\ilut.h
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut_config.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<crtdbg.h>
+	<windows.h>
+	<d3d8.h>
+	<d3d9.h>
+	<rpcsal.h>
+	<sal.h>
+	<d3d10.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<allegro.h>
+
+1483308236 s:\private\coding\cpp\_libraries\devil\include\il\ilut_config.h
+
+1622387636 s:\private\coding\cpp\projects\juicedarchivetool\splat2.h
+
+1622386060 s:\private\coding\cpp\projects\juicedarchivetool\carrev.h
+
+1640114241 source:s:\private\coding\cpp\projects\juicedarchivetool\src\tgaheader.cpp
+	"tgaheader.h"
+
+1640114260 s:\private\coding\cpp\projects\juicedarchivetool\include\tgaheader.h
+	<iostream>
+	"bytestream.h"
+
+1638844823 source:s:\private\coding\cpp\projects\juicedarchivetool\ddsheader.cpp
+	"ddsheader.h"
+
+1121653609 c:\_temp\devil-1.8.0\devil\devil\include\zlib.h
+	"zconf.h"
+
+1121874026 c:\_temp\devil-1.8.0\devil\devil\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1483315436 c:\_temp\devil-1.8.0\devil\devil\include\il\il.h
+	<stdio.h>
+	<limits.h>
+	<wchar.h>
+
+1483315436 c:\_temp\devil-1.8.0\devil\devil\include\il\ilu.h
+	<IL/il.h>
+
+1483315436 c:\_temp\devil-1.8.0\devil\devil\include\il\ilut.h
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut_config.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<crtdbg.h>
+	<windows.h>
+	<d3d8.h>
+	<d3d9.h>
+	<rpcsal.h>
+	<sal.h>
+	<d3d10.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<allegro.h>
+
+1483315436 c:\_temp\devil-1.8.0\devil\devil\include\il\ilut_config.h
+
+1639459273 source:s:\private\coding\cpp\projects\juicedarchivetool\res\icon.rc
+
+1639881643 source:s:\private\coding\cpp\projects\juicedarchivetool\src\bytestream.cpp
+	<cstring>
+	<windows.h>
+	<math.h>
+	"bytestream.h"
+	"resource.h"
+
+1639931309 s:\private\coding\cpp\projects\juicedarchivetool\include\bytestream.h
+	<iostream>
+	<string>
+	<windows.h>
+	<type_traits>
+
+1640633374 source:s:\private\coding\cpp\projects\juicedarchivetool\src\ddsheader.cpp
+	"ddsheader.h"
+
+1639931524 s:\private\coding\cpp\projects\juicedarchivetool\include\ddsheader.h
+	<iostream>
+	<fstream>
+	<string>
+	<climits>
+
+1640633298 source:s:\private\coding\cpp\projects\juicedarchivetool\src\fmtdat_archive.cpp
+	"fmtDAT_Archive.h"
+
+1640179498 s:\private\coding\cpp\projects\juicedarchivetool\include\fmtdat_archive.h
+	<zlc/zlibcomplete.hpp>
+	"bytestream.h"
+	"wstringext.h"
+	"filesystem.h"
+	"juiced_filelist.h"
+	"interface.h"
+	"fmtDDT.h"
+
+1639540029 source:s:\private\coding\cpp\projects\juicedarchivetool\src\stringext.cpp
+	"windows.h"
+	"stringext.h"
+
+1640495262 s:\private\coding\cpp\projects\juicedarchivetool\include\stringext.h
+	<iostream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<time.h>
+	<shlwapi.h>
+
+1639537452 source:s:\private\coding\cpp\projects\juicedarchivetool\src\filesystem.cpp
+	"filesystem.h"
+
+1639931852 s:\private\coding\cpp\projects\juicedarchivetool\include\filesystem.h
+	<iostream>
+	<string>
+	<cstring>
+	<windows.h>
+	<shlwapi.h>
+	<cmath>
+	<tchar.h>
+	"stringext.h"
+	"wstringext.h"
+	<shlobj.h>
+	<sstream>
+
+1639931374 s:\private\coding\cpp\projects\juicedarchivetool\include\wstringext.h
+	<iostream>
+	<string>
+	<windows.h>
+	<shlwapi.h>
+
+1580834717 s:\private\coding\cpp\projects\juicedarchivetool\include\zlibcomplete\zlc\zlibcomplete.hpp
+	<string>
+	<zlib.h>
+	<zlc/gzipcomplete.hpp>
+	<zlc/zlibmisc.hpp>
+	<zlc/zlibraw.hpp>
+
+1121653609 s:\private\coding\cpp\projects\juicedarchivetool\include\zlib\zlib.h
+	"zconf.h"
+
+1121874026 s:\private\coding\cpp\projects\juicedarchivetool\include\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1580834717 s:\private\coding\cpp\projects\juicedarchivetool\include\zlibcomplete\zlc\gzipcomplete.hpp
+	<zlc/zlibbase.hpp>
+
+1580834717 s:\private\coding\cpp\projects\juicedarchivetool\include\zlibcomplete\zlc\zlibbase.hpp
+	<zlib.h>
+
+1580834717 s:\private\coding\cpp\projects\juicedarchivetool\include\zlibcomplete\zlc\zlibmisc.hpp
+	<zlc/zlibbase.hpp>
+
+1580834717 s:\private\coding\cpp\projects\juicedarchivetool\include\zlibcomplete\zlc\zlibraw.hpp
+	<zlc/zlibbase.hpp>
+
+1640638318 s:\private\coding\cpp\projects\juicedarchivetool\include\fmtddt.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<windows.h>
+	"FreeImage.h"
+	"FreeImagePlus.h"
+	"ddsheader.h"
+	"bytestream.h"
+	"stringext.h"
+
+1521996140 s:\private\coding\cpp\projects\juicedarchivetool\include\freeimage\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1486323974 s:\private\coding\cpp\projects\juicedarchivetool\include\freeimageplus\freeimageplus.h
+	<windows.h>
+	"FreeImage.h"
+
+1638920013 source:s:\private\coding\cpp\projects\juicedarchivetool\src\fmtddt.cpp
+	"fmtDDT.h"
+
+1639630045 source:s:\private\coding\cpp\projects\juicedarchivetool\src\wstringext.cpp
+	"wstringext.h"
+
+1639457278 s:\private\coding\cpp\projects\juicedarchivetool\include\resource.h
+
+1640495627 s:\private\coding\cpp\projects\juicedarchivetool\gui\interface.h
+	<FL/Fl.H>
+	<FL/x.H>
+	<FL/Fl_JPEG_Image.H>
+	<iostream>
+	<sstream>
+	<string>
+	<windows.h>
+	"stringext.h"
+	"wstringext.h"
+	"juiced_filelist.h"
+	"fmtDAT_Archive.h"
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Output.H>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_export.h
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_types.h
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1558958812 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\abi-version.h
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_check_button.h
+	"Fl_Light_Button.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_light_button.h
+	"Fl_Button.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1640495627 source:s:\private\coding\cpp\projects\juicedarchivetool\gui\interface.cxx
+	"interface.h"
+	<FL/Fl_JPEG_Image.H>
+
+1639539336 s:\private\coding\cpp\projects\juicedarchivetool\res\resource.h
+
+1639539641 source:s:\private\coding\cpp\projects\juicedarchivetool\res\resource.rc
+	"resource.h"
+
+1640488105 s:\private\coding\cpp\projects\juicedarchivetool\include\juiced_filelist.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	"resource.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_box.h
+	"Fl_Widget.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_jpeg_image.h
+	"Fl_Image.H"
+
+1640197654 source:s:\private\coding\cpp\projects\juicedarchivetool\src\juiced_filelist.cpp
+	"juiced_filelist.h"
+
+1639931055 s:\private\coding\cpp\projects\juicedarchivetool\include\fmtd8m.h
+	<iostream>
+	<string>
+	<vector>
+	"bytestream.h"
+
+1639928795 source:s:\private\coding\cpp\projects\juicedarchivetool\src\fmtd8m.cpp
+	"fmtD8M.h"
+
+1639932538 s:\private\coding\cpp\projects\juicedarchivetool\include\fmtppm.h
+	<iostream>
+	<string>
+	"bytestream.h"
+
+1639932589 source:s:\private\coding\cpp\projects\juicedarchivetool\src\fmtppm.cpp
+	"fmtPPM.h"
+
+1640114279 s:\private\coding\cpp\projects\juicedarchivetool\include\fmtd8f.h
+	<iostream>
+	<string>
+	"bytestream.h"
+	"tgaheader.h"
+
+1640116997 source:s:\private\coding\cpp\projects\juicedarchivetool\src\fmtd8f.cpp
+	"fmtD8F.h"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1551602423 s:\private\coding\cpp\projects\juicedarchivetool\include\fl\fl_output.h
+	"Fl_Input.H"
+

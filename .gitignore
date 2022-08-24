@@ -1,3 +1,15 @@
+# CodeBlocks Stuff
+bin/*
+res/*
+bak/*
+obj/*
+lib/*
+forms/*
+doxygen/*
+.vs/*
+msvc.lnk
+desktop.ini
+
 # Prerequisites
 *.d
 
